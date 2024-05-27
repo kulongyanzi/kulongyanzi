@@ -8,4 +8,6 @@ output:
 Welcome to my website!  
 I am a student at SUSTech, my research is about Electro-chemistry.
 
+
+Insert a figure:  
 <img src="figs/DSC03415.jpg" alt="drawing" width="500"/>
