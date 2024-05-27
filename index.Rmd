@@ -7,3 +7,5 @@ output:
 
 Welcome to my website!  
 I am a student at SUSTech, my research is about Electro-chemistry.
+
+<img src="figs/DSC03433.png" alt="drawing" width="500"/>
